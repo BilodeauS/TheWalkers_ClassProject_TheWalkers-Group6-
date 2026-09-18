@@ -11,4 +11,5 @@ We were cautioned against using MRI images due to the complexity of the processi
 
 ### Dataset 2
 
+We were also looking at using https://openneuro.org/datasets/ds005505/versions/1.0.1 and looking a specific passive or active task and if we can draw any parallels to ADHD or other cognitive disorders.
 
