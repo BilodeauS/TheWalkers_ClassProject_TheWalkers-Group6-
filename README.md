@@ -1,6 +1,6 @@
 # TheWalkers_ClassProject_TheWalkers(Group6)
 ## The Walkers
-### Group Members:
+### Group Members: Alex, Shawna, Gem, Krina
 
 BMENG 600 Class project Repository
 
