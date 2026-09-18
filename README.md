@@ -1,4 +1,6 @@
-# TheWalkers_ClassProject
+# TheWalkers_ClassProject_TheWalkers(Group6)
+##The Walkers
+
 BMENG 600 Class project Repository
 
 We were looking at using https://portal.conp.ca/dataset?id=projects/Calgary-Preschool-MRI-Dataset to determine if there 
