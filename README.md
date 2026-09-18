@@ -1,5 +1,6 @@
 # TheWalkers_ClassProject_TheWalkers(Group6)
 ## The Walkers
+## Group Members:
 
 BMENG 600 Class project Repository
 
