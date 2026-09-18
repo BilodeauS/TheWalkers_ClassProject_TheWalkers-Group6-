@@ -10,3 +10,6 @@ We were looking at using https://portal.conp.ca/dataset?id=projects/Calgary-Pres
 We were cautioned against using MRI images due to the complexity of the processing with the limited time of the class.
 
 
+
+
+HI
