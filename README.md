@@ -1,9 +1,11 @@
 # TheWalkers_ClassProject_TheWalkers(Group6)
-##The Walkers
+## The Walkers
 
 BMENG 600 Class project Repository
 
-We were looking at using https://portal.conp.ca/dataset?id=projects/Calgary-Preschool-MRI-Dataset to determine if there 
+### Dataset 1
+
+We were looking at using https://portal.conp.ca/dataset?id=projects/Calgary-Preschool-MRI-Dataset to determine if there was a correlation between outlier gro 
 
 but were cautioned against using MRI images due to the complexity of the processing with the limited time of the class. 
 
