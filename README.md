@@ -15,5 +15,5 @@ We were also looking at using https://openneuro.org/datasets/ds005505/versions/1
 
 Right now we are currently leaning towards dataset 2 because it is less complex.
 
-###Team Plan
+### Team Plan
 [TEAM 6 MIDTERM PROJECT PLAN.pdf](https://github.com/user-attachments/files/32979503/TEAM.6.MIDTERM.PROJECT.PLAN.pdf)
