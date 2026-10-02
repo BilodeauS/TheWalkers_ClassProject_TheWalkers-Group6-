@@ -14,3 +14,6 @@ We were cautioned against using MRI images due to the complexity of the processi
 We were also looking at using https://openneuro.org/datasets/ds005505/versions/1.0.1 and looking a specific passive or active task and if we can draw any parallels to ADHD or other cognitive disorders. Right now our biggest uncertainty is what we should make our research question around based on this dataset.
 
 Right now we are currently leaning towards dataset 2 because it is less complex.
+
+###Team Plan
+[TEAM 6 MIDTERM PROJECT PLAN.pdf](https://github.com/user-attachments/files/32979503/TEAM.6.MIDTERM.PROJECT.PLAN.pdf)
