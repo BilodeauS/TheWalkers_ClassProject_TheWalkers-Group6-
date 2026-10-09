@@ -17,6 +17,7 @@ Right now we are currently leaning towards dataset 2 because it is less complex.
 
 ### Project Decision 
 
+Dataset link: https://openneuro.org/datasets/ds004148/versions/1.0.1
 In healthy university students, is resting-state EEG (theta power, alpha power, and the theta/alpha ratio) associated with state sleepiness (how sleepy they feel right now), trait sleepiness (how sleepy they are in general), or both?
 Sub Questions:
   1. State: within the same person across 3 sessions, does a higher Karolinska Sleepiness Scale score go with a higher theta/alpha ratio?
